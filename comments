@@ -1,2 +1,6 @@
 working fine on desktop
 now will be removing router-dom code, so thatit can be deploiyed to github pages
+
+
+https://create-react-app.dev/docs/deployment/#github-pages
+
